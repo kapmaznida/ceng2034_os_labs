@@ -22,6 +22,6 @@ os.system("cp -ru /lib64/ ~/sec/")
 
 os.chroot(nida + "/sec")
 print(os.getcwd())
-print(nidanınjail(16))
+print("nidanınjaili")
 print(os.getcwd())
 
